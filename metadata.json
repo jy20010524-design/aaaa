@@ -1,0 +1,7 @@
+{
+  "name": "SquishyLog",
+  "description": "A cute, mobile-first app to track your squishy toys with before/after photos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
